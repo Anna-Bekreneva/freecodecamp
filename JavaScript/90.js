@@ -19,4 +19,4 @@ function phoneticLookup(val) {
     return result;
 }
 
-phoneticLookup("charlie");
+console.log(phoneticLookup("charlie"))
